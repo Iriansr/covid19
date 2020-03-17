@@ -3,6 +3,7 @@
 Visualization and storage of data related with the spread and cases of COVID-19 around the world using Jupyter Notebook and several libraries.
 
 Example:
+![Example](/newplot.png)
 
 
 
