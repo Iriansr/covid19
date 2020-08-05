@@ -12,6 +12,5 @@ Example:
 
 
 
-Under construction:
-Current project consist in make some predictions for certain countries.
+
 
